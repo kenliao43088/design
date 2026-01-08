@@ -24,7 +24,7 @@
     "@styled-system/prop-types": "5.1.5",
     "@styled-system/theme-get": "^5.1.2",
     "@svgr/webpack": "^6.5.1",
-    "@tanstack/react-query": "^4.23.0",
+    "@tanstack/react-query": "^4.42.0",
     "change-case": "^4.1.2",
     "downloadjs": "^1.4.7",
     "eslint": "^8.21.0",
